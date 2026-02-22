@@ -1,2 +1,2 @@
-# quant_research
-my codes for quant research
+# Quant Research
+My codes for quant research
